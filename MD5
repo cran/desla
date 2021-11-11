@@ -1,0 +1,15 @@
+723f910db55e232f8dea0e69fc45330c *DESCRIPTION
+0ef1830f33172c16a52cc7b3d0cd9e65 *NAMESPACE
+bd12222c57820fb1bde65bd7dea84084 *NEWS.md
+8079c43b9e06fcd531d55b4036f0b53f *R/R_functions.R
+e74ed158d513dd31c86b9e148303d723 *R/RcppExports.R
+43b04092c5afe97ccf9a8ae90ad659a3 *R/desla-package.R
+a129dc6f2d6a1c9ef4fc6d394ecc4410 *README.md
+64a7d5f8e0289e2cc292be119c1d5816 *build/partial.rdb
+fe0bac4b621b1e47678645c0adac8290 *inst/REFERENCES.bib
+6318bbc158b67a215691d01f56315bb6 *man/HDLP.Rd
+c83f4f0dfcabe33f213af9290a0181eb *man/desla.Rd
+e4a9a47c4a3aca98677ab8b16336e5de *src/Makevars
+e4a9a47c4a3aca98677ab8b16336e5de *src/Makevars.win
+f85590c63b031017ec1f247f71f14e1a *src/RcppExports.cpp
+516fe5d556f2444e2339a7e951de53e9 *src/rcpp_functions.cpp
